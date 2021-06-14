@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CheckedSensors</string>
+    <string name="discription">Система индикации датчиков устройства\nНажмите кнопку, чтобы получить список установленных сенсоров</string>
+</resources>
